@@ -1,0 +1,17 @@
+
+PSOPT results summary
+=====================
+
+Problem: 					Leading Vehicle Autonomous Problem
+CPU time (seconds):				5.440077e+00
+NLP solver used: 				IPOPT
+PSOPT release number: 				4.0.1
+Date and time of this run: 			Sat Sep  5 09:11:46 2020
+
+Optimal (unscaled) cost function value: 	2.438284e+05
+Phase 1 endpoint cost function value:		3.798177e+03
+Phase 1 integrated part of the cost: 		2.400302e+05
+Phase 1 initial time:				0.000000e+00
+Phase 1 final time:				3.798177e+03
+Phase 1 maximum relative local error:		2.015734e-04
+NLP solver reports: 				The problem has been solved!
