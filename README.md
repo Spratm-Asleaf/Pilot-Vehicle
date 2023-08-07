@@ -8,7 +8,7 @@
 
 > MATLAB Version: 2019B or later
 >
-> PSOPT Version: 5.0.2 (Languages C++)
+> PSOPT Version: 5.0.2 (Language C++)
 > 
 > Python Version: 
 
