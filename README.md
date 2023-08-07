@@ -1,5 +1,5 @@
 > @Authors: WANG Shixiong (Email: <s.wang@u.nus.edu>; <wsx.gugo@gmail.com>), 
-> LI   Xinke    (Email: <inke.li@u.nus.edu>), 
+> LI   Xinke    (Email: <xinke.li@u.nus.edu>), 
 > Chen Zhirui   (Email: <zhiruichen@u.nus.edu>)
 
 > @Affiliate: Department of Industrial Systems Engineering and Management, National University of Singapore 
