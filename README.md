@@ -8,6 +8,8 @@
 
 > MATLAB Version: 2019B or later
 >
+> PSOPT Version: 5.0.2 (Languages C++)
+> 
 > Python Version: 
 
 # Pilot-Vehicle: A Railway Accident Prevention System Using An Intelligent Pilot Vehicle
