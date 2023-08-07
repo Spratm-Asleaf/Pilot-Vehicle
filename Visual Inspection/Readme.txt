@@ -1,3 +1,3 @@
-This part is under maintenance of Zhirui Chen (<zhiruichen@u.nus.edu>).
+This part is under the maintenance of Zhirui Chen (zhiruichen@u.nus.edu).
 
 Please visit: 
