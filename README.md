@@ -26,7 +26,7 @@ From the Department of Industrial Systems Engineering and Management and the Dep
 
 - The folder "Autonomous Driving" contains all the source data and codes for the autonomous driving of the pilot vehicle. They are used to generate figures and tables in Section III.
     
-- See [Visual Inspection](https://github.com/Spratm-Asleaf/Visual-Inspection) for the source data and codes for the visual inspection method of the camera installed on the pilot vehicle.  They are used to generate figures and tables in Section IV.
+- The folder "Visual Inspection" contains all the source data and codes for the visual inspection method of the camera installed on the pilot vehicle.  They are used to generate figures and tables in Section IV.
 
 ***Warrant***
 
