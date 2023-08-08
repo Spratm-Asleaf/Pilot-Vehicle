@@ -12,6 +12,7 @@
 > 
 > @Site: https://github.com/Spratm-Asleaf/Pilot-Vehicle
 
+$~$
 
 PSOPT: https://github.com/PSOPT/psopt 
 
@@ -130,10 +131,10 @@ NOTE: If you cannot see the "adolc_base" folder, you failed to complie the ADOLC
 NOTE: If you cannot copy the files due to permission issues, try to enter "/root/" first and use chmod command to obtain permission of the folder "adolc_base". Then try the two statements above.
 
 Move or copy the following two files to the folder "/usr/lib/pkgconfig"
-
+````
 adolc.pc
-
 ColPack.pc
+````
 
 Then, you can run the following commands to download, compile and install PSOPT.
 
