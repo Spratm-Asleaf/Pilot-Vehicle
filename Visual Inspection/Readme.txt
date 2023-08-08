@@ -1,3 +1,3 @@
-This part is under the maintenance of Zhirui Chen (zhiruichen@u.nus.edu).
+This part is under the maintenance of Dr. Xinke Li (xinke.li@u.nus.edu).
 
-Please visit: 
+Please visit: (https://github.com/shinke-li/Pilot-Vehicle-VRIS)
