@@ -24,7 +24,7 @@ https://github.com/PSOPT/psopt/blob/master/README_Ubuntu_22.04.md
 
 which serves as a helper.
 
-## PSOPT installation on Ubuntu 22.04
+## PSOPT installation on Ubuntu 20.04
 If you use Ubuntu **20.04**, all dependencies plus GNUplot can simply be installed as follows:
 
 ````
@@ -42,6 +42,8 @@ sudo apt-get install libeigen3-dev
 sudo apt-get install libblas-dev
 sudo apt-get install liblapack-dev
 ````
+
+## PSOPT installation on Ubuntu 22.04
 
 With Ubuntu **22.04**, a runtime error related to the ADOL-C library is currently reported when executing PSOPT code if you follow the instructions that work for Ubuntu 20.04. 
 Here are the specific instructions that are needed to install PSOPT under Ubuntu 22.04.
