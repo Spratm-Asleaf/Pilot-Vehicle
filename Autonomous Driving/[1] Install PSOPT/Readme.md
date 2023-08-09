@@ -66,7 +66,7 @@ sudo apt-get install liblapack-dev
 
 Second, you should run the following commands to download, compile, and install the ADOLC and ColPack.
 
-## Manually install "colpack" and "adolc"
+### Manually install "colpack" and "adolc"
 
 Download the ADOLC Package
 
@@ -107,13 +107,13 @@ sudo make
 sudo make install
 ````
 
-### If you succeed, you should see some "lib" files in the folder "build", then move them to "/usr/lib"; if you cannot see, you failed to compile ColPack for some reasons
+If you succeed, you should see some "lib" files in the folder "build", then move them to "/usr/lib"; if you cannot see, you failed to compile ColPack for some reasons
 
 ``
 sudo cp -P ./build/lib/libCol* /usr/lib
 ``
 
-### Compile and configure ADOL-C with ColPack; you MUST use the absolute path of the folder "ColPack/build", supposing it is "AbsolutePath"; remember to replace it with your real absolute path
+Compile and configure ADOL-C with ColPack; you MUST use the absolute path of the folder "ColPack/build", supposing it is "AbsolutePath"; remember to replace it with your real absolute path
 
 ````
 sudo ./configure --enable-sparse --with-colpack=AbsolutePath/ColPack/build
@@ -121,7 +121,7 @@ sudo make
 sudo make install
 ````
 
-### If you succeed, you should see the "adolc_base" folder somewhere in your computer; it was created by the compilation process. In my case, it was placed in the "root" directory (i.e., "/root/adolc_base"). Copy the files below to "/usr/lib"
+If you succeed, you should see the "adolc_base" folder somewhere in your computer; it was created by the compilation process. In my case, it was placed in the "root" directory (i.e., "/root/adolc_base"). Copy the files below to "/usr/lib"
 
 ````
 sudo cp -P /root/adolc_base/lib64/lib* /usr/lib
@@ -138,7 +138,7 @@ adolc.pc
 ColPack.pc
 ````
 
-Then, you can run the following commands to download, compile and install PSOPT.
+## Finally, you can run the following commands to download, compile, and install PSOPT.
 
 ````
 git clone https://github.com/PSOPT/psopt.git
