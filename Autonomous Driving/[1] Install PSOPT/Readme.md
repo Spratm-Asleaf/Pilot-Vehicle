@@ -43,6 +43,8 @@ sudo apt-get install libblas-dev
 sudo apt-get install liblapack-dev
 ````
 
+Then, direct to the end of this file to install PSOPT.
+
 ## PSOPT installation on Ubuntu 22.04
 
 With Ubuntu **22.04**, a runtime error related to the ADOL-C library is currently reported when executing PSOPT code if you follow the instructions that work for Ubuntu 20.04. 
