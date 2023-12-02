@@ -18,7 +18,7 @@ Online supplementary materials of the paper titled
 
 **A Railway Accident Prevention System Using An Intelligent Pilot Vehicle**
 
-Published in the _IEEE Transactions on Intelligent Transportation Systems_
+Published in the _IEEE Transactions on Intelligent Transportation Systems_ (DOI: [10.1109/TITS.2023.3331901](https://doi.org/10.1109/tits.2023.3331901))
    
 By Shixiong Wang*, Xinke Li*, Zhirui Chen, and Yang Liu (The * marks equal contribution.)
 
